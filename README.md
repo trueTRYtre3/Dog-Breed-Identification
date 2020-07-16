@@ -1,4 +1,4 @@
 # Dog-Breed-Identification
-Using Deep Learning to Identify the dog breed based on a given image.
-
-Learning the basics of Tensorflow
+Utilizing Keras and Tensorflow to classify 120 different dog breeds based on a given image
+Inception (horn sound effect) pretrained models used to compare accuracy.
+Evaluation is based on log_loss function
